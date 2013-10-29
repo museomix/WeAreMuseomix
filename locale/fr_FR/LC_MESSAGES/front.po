@@ -1,0 +1,519 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 20:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: class.user.php:93
+msgid "Nom"
+msgstr ""
+
+#: class.user.php:94 page.usermodify.php:176
+msgid "Présentation"
+msgstr ""
+
+#: class.user.php:96
+msgid "Site personnel"
+msgstr ""
+
+#: class.user.php:97 page.usermodify.php:172
+msgid "Compte twitter"
+msgstr ""
+
+#: class.user.php:98 page.inscription.php:118 page.login.php:33
+msgid "Courriel"
+msgstr ""
+
+#: class.user.php:99
+msgid "Permalien"
+msgstr ""
+
+#: class.user.php:106 class.user.php:143
+msgid "+ de détails"
+msgstr ""
+
+#: class.user.php:133
+msgid "website"
+msgstr ""
+
+#: class.user.php:135
+msgid "twitter"
+msgstr ""
+
+#: class.user.php:136
+msgid "permalink"
+msgstr ""
+
+#: class.user.php:157
+msgid "We are museomix"
+msgstr ""
+
+#: class.user.php:439
+msgid "Modifier"
+msgstr ""
+
+#: class.user.php:440
+msgid "Changer mon mot de passe"
+msgstr ""
+
+#: class.user.php:441
+msgid "Charger ma photo"
+msgstr ""
+
+#: page.forgotpassword.php:20 page.inscription2.php:21 page.inscription.php:20
+#: page.login2.php:20 page.login.php:20 page.logout.php:20
+#: page.mentions.php:20 page.myaccount.php:20 page.mypicture.php:20
+#: page.remotetest.php:20 page.test.php:20 page.usermodify.php:20
+#: page.usernewpassword.php:20 page.user.php:20 page.users.php:20
+#: page.usersslider.php:20 script.remoteuser.php:20
+msgid "Vous vous engagez sur une voie risquée et votre IP est enregistrée :("
+msgstr ""
+
+#: page.forgotpassword.php:47
+msgid "Vous allez recevoir un message pour réactiver votre inscription."
+msgstr ""
+
+#: page.forgotpassword.php:50
+msgid ""
+"Bonjour\n"
+"Vous venez de demander à redéfinir votre mot de passe"
+msgstr ""
+
+#: page.forgotpassword.php:52
+msgid "Votre login est"
+msgstr ""
+
+#: page.forgotpassword.php:54
+msgid ""
+"Afin de valider cette demande, veuillez vous rendre à l'adresse suivante"
+msgstr ""
+
+#: page.forgotpassword.php:56 page.inscription.php:72
+msgid "Cordialement, l'équipe du site"
+msgstr ""
+
+#: page.forgotpassword.php:63 page.inscription.php:79
+msgid "Votre inscription sur"
+msgstr ""
+
+#: page.forgotpassword.php:75
+msgid "Votre mail a bien été envoyé."
+msgstr ""
+
+#: page.forgotpassword.php:79 page.inscription.php:97
+msgid "Votre mail n'a pas pu être envoyé"
+msgstr ""
+
+#: page.forgotpassword.php:83
+msgid "Echec lors de votre demande de mot de passe perdu."
+msgstr ""
+
+#: page.forgotpassword.php:98 page.login.php:41
+msgid "Mot de passe oublié"
+msgstr ""
+
+#: page.forgotpassword.php:102
+msgid "Rappel de mot de passe"
+msgstr ""
+
+#: page.forgotpassword.php:104
+msgid "Adresse de courriel fournie lors de votre inscription"
+msgstr ""
+
+#: page.forgotpassword.php:109 page.inscription2.php:82
+#: page.inscription.php:123 page.login.php:46 page.mypicture.php:104
+#: page.usernewpassword.php:52
+msgid "Valider"
+msgstr ""
+
+#: page.index.php:20
+msgid "Please go out :("
+msgstr ""
+
+#: page.index.php:22
+msgid "Bienvenue"
+msgstr ""
+
+#: page.index.php:25
+msgid "Blablablbalba"
+msgstr ""
+
+#: page.inscription2.php:1 page.inscription.php:22 page.mypicture.php:22
+msgid "Inscription"
+msgstr ""
+
+#: page.inscription2.php:23
+msgid "Vous devez avoir une clé pour activer cette page"
+msgstr ""
+
+#: page.inscription2.php:24
+msgid "Vous devez avoir un nom d'utilisateur pour activer cette page"
+msgstr ""
+
+#: page.inscription2.php:48
+msgid "Votre compte est validé."
+msgstr ""
+
+#: page.inscription2.php:50
+msgid "Vous êtes connecté(e)."
+msgstr ""
+
+#: page.inscription2.php:51
+msgid ""
+"Nous vous invitons dans un premier temps à mettre à jour les informations "
+"concernant votre compte"
+msgstr ""
+
+#: page.inscription2.php:51
+msgid "Mon compte"
+msgstr ""
+
+#: page.inscription2.php:52
+msgid "Bienvenue sur le mur des museomixers ;o)"
+msgstr ""
+
+#: page.inscription2.php:55
+msgid "Vous n'êtes pas connecté(e)."
+msgstr ""
+
+#: page.inscription2.php:61
+msgid "Erreur lors de la validation de votre compte."
+msgstr ""
+
+#: page.inscription2.php:71
+msgid "Définition de votre mot de passe"
+msgstr ""
+
+#: page.inscription2.php:73 page.login.php:38 page.usernewpassword.php:46
+msgid "Mot de passe"
+msgstr ""
+
+#: page.inscription2.php:89
+msgid "Il y a un problème avec votre clé d'activation."
+msgstr ""
+
+#: page.inscription.php:35
+msgid "Adresse de courriel Invalide"
+msgstr ""
+
+#: page.inscription.php:45
+msgid "Cette adresse mail est déjà utilisée, veuillez en choisir une autre."
+msgstr ""
+
+#: page.inscription.php:63
+msgid "Vous allez recevoir un message pour terminer votre inscription."
+msgstr ""
+
+#: page.inscription.php:66
+msgid ""
+"Bonjour\n"
+"Vous venez de vous inscrire sur le site"
+msgstr ""
+
+#: page.inscription.php:68
+msgid "Votre login sera"
+msgstr ""
+
+#: page.inscription.php:70
+msgid ""
+"Afin de poursuivre votre inscription, merci de vous rendre à l'adresse "
+"suivante"
+msgstr ""
+
+#: page.inscription.php:90
+msgid "Ajouter tout de suite sa fiche..."
+msgstr ""
+
+#: page.inscription.php:92
+msgid ""
+"Vous allez recevoir ce lien par courriel si vous souhaitez complétez votre "
+"fiche plsu tard..."
+msgstr ""
+
+#: page.inscription.php:103 page.mypicture.php:85
+msgid "Echec lors de votre inscription."
+msgstr ""
+
+#: page.inscription.php:116
+msgid "Formulaire d'inscription"
+msgstr ""
+
+#: page.login2.php:23 page.login.php:22
+msgid "Connexion"
+msgstr ""
+
+#: page.login2.php:30
+msgid "Bienvenue vous êtes connecté(e)"
+msgstr ""
+
+#: page.login2.php:31
+msgid "Vous pouvez"
+msgstr ""
+
+#: page.login2.php:33
+msgid "Voir et modifier les informations de votre compte"
+msgstr ""
+
+#: page.login2.php:37
+msgid "Mauvais mot de passe ou nom d'utilisateur"
+msgstr ""
+
+#: page.login.php:31
+msgid "Identification"
+msgstr ""
+
+#: page.logout.php:22
+msgid "Déconnexion"
+msgstr ""
+
+#: page.logout.php:29
+msgid "Vous êtes maintenant déconnecté. A bientôt !"
+msgstr ""
+
+#: page.mentions.php:22
+msgid "Mentions légales"
+msgstr ""
+
+#: page.mentions.php:24
+msgid "Responsable de publication"
+msgstr ""
+
+#: page.mentions.php:26
+msgid "Mentions de responsabilité"
+msgstr ""
+
+#: page.mentions.php:28
+msgid "Données personnnelles"
+msgstr ""
+
+#: page.mentions.php:29
+msgid "Ce site collecte des données personnelles afin de fonctionner."
+msgstr ""
+
+#: page.mentions.php:30
+msgid "Aucune utilisation commerciale n'est faite de ces données."
+msgstr ""
+
+#: page.mentions.php:31
+msgid ""
+"Les mots de passe que vous utilisez ne sont pas codés en clair dans la base "
+"de données et, à ce titre, aucun envoi de mot de passe ne peut être envoyé "
+"par les administrateurs du site."
+msgstr ""
+
+#: page.mentions.php:32
+msgid "Ce site est déclaré à la CNIL sous le numéro"
+msgstr ""
+
+#: page.mentions.php:33
+msgid ""
+"Vous pouvez accéder aux informations vous concernant et les rectifier si "
+"vous le souhaitez en contactant le webmaster de ce site."
+msgstr ""
+
+#: page.mentions.php:35
+msgid "Mentions techniques"
+msgstr ""
+
+#: page.mentions.php:36
+msgid "Ce site est propulsé par Rar, Roule avec RaR."
+msgstr ""
+
+#: page.mentions.php:37
+msgid "La mise en oeuvre technique est assuré par"
+msgstr ""
+
+#: page.mentions.php:39
+msgid "Droits d'auteurs"
+msgstr ""
+
+#: page.mentions.php:41
+msgid ""
+"Ce site utilise les éléments suivants et nous en remercions ici grandement "
+"leurs auteurs :"
+msgstr ""
+
+#: page.mentions.php:42
+msgid "Le set d'icônes FamFam http://www.famfamfam.com/lab/icons/silk"
+msgstr ""
+
+#: page.mentions.php:43
+msgid "La bibliothèque javascript JQuery et ses dérivés (Licence MIT)"
+msgstr ""
+
+#: page.mentions.php:44
+msgid "Les services géographiques (javascript et API) de CloudMade"
+msgstr ""
+
+#: page.mentions.php:45
+msgid "Les données cartogaphiques mises à disposition par OpenStreetMap"
+msgstr ""
+
+#: page.mentions.php:46
+msgid "La librairie javascript OpenLayers"
+msgstr ""
+
+#: page.mentions.php:47
+msgid "Le thème Twenty Ten de la WordPress Team"
+msgstr ""
+
+#: page.mentions.php:48
+msgid "Les services de Geocoding et de Reverse Geocoding de Nominatim"
+msgstr ""
+
+#: page.mentions.php:49
+msgid "Le tout bien codé en php/mysql et moins bien en javascript"
+msgstr ""
+
+#: page.myaccount.php:32
+msgid "Mes informations personnelles"
+msgstr ""
+
+#: page.myaccount.php:46
+msgid "Mon affiche"
+msgstr ""
+
+#: page.myaccount.php:52 page.mypicture.php:32
+msgid ""
+"Vous devez être connecté ou vous n'avez pas les droits nécessaires pour "
+"accéder à cette page."
+msgstr ""
+
+#: page.mypicture.php:40 page.mypicture.php:44
+msgid "Fichier non défini"
+msgstr ""
+
+#: page.mypicture.php:48
+msgid "Fichier trop lourd"
+msgstr ""
+
+#: page.mypicture.php:54
+msgid "Seuls les fichiers jpg sont acceptés"
+msgstr ""
+
+#: page.mypicture.php:61
+msgid "Taille minimale de l'image 640x480px"
+msgstr ""
+
+#: page.mypicture.php:81
+msgid "Votre image est enregistrée."
+msgstr ""
+
+#: page.mypicture.php:82
+msgid "Retour sur ma page"
+msgstr ""
+
+#: page.mypicture.php:98
+msgid "Formulaire Upload"
+msgstr ""
+
+#: page.mypicture.php:100
+msgid "Image à charger"
+msgstr ""
+
+#: page.test.php:22
+msgid "Juste pour voir une traduction"
+msgstr ""
+
+#: page.usermodify.php:40
+msgid "Adresse de courriel invalide"
+msgstr ""
+
+#: page.usermodify.php:112
+msgid "Vos modifications ont bien été enregistrées."
+msgstr ""
+
+#: page.usermodify.php:113
+msgid "Vos informations telles qu'elles apparaîtront aux autres usagers :"
+msgstr ""
+
+#: page.usermodify.php:115
+msgid "Retour à mon compte"
+msgstr ""
+
+#: page.usermodify.php:118
+msgid "Echec."
+msgstr ""
+
+#: page.usermodify.php:130
+msgid "Vos informations"
+msgstr ""
+
+#: page.usermodify.php:134
+msgid "Constituez votre phrase / Make your own sentence"
+msgstr ""
+
+#: page.usermodify.php:146
+msgid "<em>suite libre...</em>"
+msgstr ""
+
+#: page.usermodify.php:154
+msgid "Adresse de courriel"
+msgstr ""
+
+#: page.usermodify.php:159
+msgid "Langue (en_US ou fr_FR en attendant le select :\\)"
+msgstr ""
+
+#: page.usermodify.php:164
+msgid "Nom affiché"
+msgstr ""
+
+#: page.usermodify.php:168
+msgid "URL de mon site"
+msgstr ""
+
+#: page.usermodify.php:181
+msgid ""
+"J'ai participé ou je participe à ces museomix - I took/take part at this "
+"museomix"
+msgstr ""
+
+#: page.usermodify.php:209
+msgid "Enregistrer"
+msgstr ""
+
+#: page.usermodify.php:216
+msgid "Votre compte est désactivé."
+msgstr ""
+
+#: page.usernewpassword.php:23
+msgid "Votre compte"
+msgstr ""
+
+#: page.usernewpassword.php:30
+msgid "Votre nouveau mot de passe est bien enregistré."
+msgstr ""
+
+#: page.usernewpassword.php:33
+msgid "Erreur lors de l'enregistrement de votre mot de passe."
+msgstr ""
+
+#: page.usernewpassword.php:44
+msgid "Définition de votre nouveau mot de passe"
+msgstr ""
+
+#: page.usernewpassword.php:57
+msgid "Retour à ma page"
+msgstr ""
+
+#: page.usernewpassword.php:60
+msgid "Vous n'avez pas les droits suffisants pour cette action."
+msgstr ""
+
+#: script.remoteuser.php:51
+msgid "Pas assez d'utilisateurs"
+msgstr ""

@@ -17,3 +17,10 @@ WeAreMuseomix
 **NOTICE : THIS LICENSE IS FREE OF CHARGE AND THE SOFTWARE IS DISTRIBUTED WITHOUT ANY **
 ** WARRANTIES OF ANY KIND **
 *****************************************************************************************/
+
+Ce logiciel inclut d'autres parties :
+- font et logo de http://www.museomix.org
+- icones du set famfam silk icons
+- bootstrap
+- jquery et jquery-ui
+- AnythingSlider-master

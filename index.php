@@ -1,6 +1,6 @@
 <?php
 /*****************************************************************************************
-** © 2013 POULAIN Nicolas – nicolas.poulain@ouvaton.org - http://tounoki.org **
+** © 2013 POULAIN Nicolas – nico.public@ouvaton.org - http://tounoki.org **
 ** **
 ** Ce fichier est une partie du logiciel libre WeAreMuseomix, licencié **
 ** sous licence "CeCILL version 2". **

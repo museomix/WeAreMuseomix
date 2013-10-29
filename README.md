@@ -22,5 +22,5 @@ Ce logiciel inclut d'autres parties :
 - font et logo de http://www.museomix.org
 - icones du set famfam silk icons
 - bootstrap
-- jquery et jquery-ui
+- jquery
 - AnythingSlider-master

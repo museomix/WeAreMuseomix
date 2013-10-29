@@ -24,3 +24,6 @@ Ce logiciel inclut d'autres parties :
 - bootstrap
 - jquery
 - AnythingSlider-master
+
+Source :
+https://github.com/tounoki/WeAreMuseomix
